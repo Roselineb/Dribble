@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+# Ex10 Project Responsive Web Design using Bootstrap
 ## Name: ROSELINE B
 ## RegNo: 212221220046
 ## Date: 12-11-2024
